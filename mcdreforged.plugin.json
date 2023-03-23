@@ -1,0 +1,11 @@
+{
+  "id": "xiaohuihuis_big_pie",
+  "version": "0.0.2",
+  "name": "XiaoHuiHui's Big Pie",
+  "description": {
+    "en_us": "Run any Python code in game!",
+    "zh_cn": "小灰灰的游戏内执行 Python 语句大饼"
+  },
+  "author": "BSR Server",
+  "link": "https://github.com/BSR-Server/XiaoHuiHuis-Big-Pie"
+}
